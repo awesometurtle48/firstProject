@@ -1,0 +1,14 @@
+<html>
+   <head>
+      <title>All About Me</title>
+   </head>
+
+
+   <body>
+     <header>
+       <h1>All About Me</h1>
+          <a href="index2.html>">Click Here!<" font color="#ff0000"</a>
+     </header>
+
+
+  

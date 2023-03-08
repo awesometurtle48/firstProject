@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <title>My Favorite Things</title>
+   </head>
+
+  <body>
+    <h1>My Favorite Things</h1>
+
+  <ul>
+
+     <li><a href="./food.html">My Favorite Foods</a></li>
+     <li><a href="./games.html">My Favorite Games</a></li>
+     <li><a href="./shows.html">My Favorite Shows</a></li>
+     <li><a href="./songs.html">My Favorite Songs</a></li>
+  
+
+  </ul>

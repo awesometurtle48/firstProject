@@ -1,0 +1,16 @@
+<html>
+   <head>
+      <title>My Favorite Foods</title>
+
+    </head>
+
+    <body>
+       <h1>Burritos</h1>
+
+           <img src="./images/burrito1.jpg"/>
+           
+        <h1>Spaghetti</h1>
+
+           <img src=".images/spaghetti1.jpg"/>
+          
+     </body>
